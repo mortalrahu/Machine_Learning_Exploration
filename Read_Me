@@ -1,0 +1,17 @@
+Author: Rahul Kodarapu
+Date : 30/07/2024
+
+IDE:
+
+Pycharm Community Edition 2021.2.2
+
+Version Dependencies:
+
+- Python = 3.7.9
+
+Python Libraries Used:
+
+- Random
+- Time
+- Copy
+- Unittest
